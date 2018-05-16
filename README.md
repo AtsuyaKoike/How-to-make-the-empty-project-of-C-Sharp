@@ -20,18 +20,16 @@ https://www.visualstudio.com/ja/downloads/
 <br>
 ![](https://github.com/AtsuyaKoike/How-to-make-the-empty-project-of-C-Sharp/blob/master/cshapsetup3.png)
 このような画面になっているはずです。<br>
-<br>
-![](https://github.com/AtsuyaKoike/How-to-make-the-empty-project-of-C-Sharp/blob/master/cshapsetup4.png)
 そして右側のメニューのnyumonを右クリして<br>
 nyumon＞追加＞新しい項目<br>
 を選択します。<br>
 <br>
-![](https://github.com/AtsuyaKoike/How-to-make-the-empty-project-of-C-Sharp/blob/master/cshapsetup5.png)
+![](https://github.com/AtsuyaKoike/How-to-make-the-empty-project-of-C-Sharp/blob/master/cshapsetup4.png)
 左のメニューはデフォルトで「Visual C# アイテム」になっているはずです。そのまま中央のメニューから「クラス Visual Studio アイテム」を選択します。<br>
 <br>
-![](https://github.com/AtsuyaKoike/How-to-make-the-empty-project-of-C-Sharp/blob/master/cshapsetup6.png)
 これで設定は完了です。<br>
 public Class1()のコードブロックにプログラムを書いていくことができます。<br>
+![](https://github.com/AtsuyaKoike/How-to-make-the-empty-project-of-C-Sharp/blob/master/cshapsetup5.png)
 <br>
 以上で完了です。<br>
 <br>
@@ -56,3 +54,4 @@ namespace nyumon
 }
 ```
 Ctrl+F5で実行することができます。<br>
+![](https://github.com/AtsuyaKoike/How-to-make-the-empty-project-of-C-Sharp/blob/master/cshapsetup6.png)
